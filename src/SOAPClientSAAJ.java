@@ -2,7 +2,6 @@ import javax.xml.soap.*;
 import org.w3c.dom.NodeList;
 import java.util.Scanner;
 
-//48944882
 
 public class SOAPClientSAAJ {
 
